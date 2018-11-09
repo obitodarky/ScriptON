@@ -1,0 +1,8 @@
+{
+    "name" : "Harsh",
+    "age" : 35 ,
+    "address" : {
+        "city" : "Baroda",
+        "area" : "Race Course"
+    }
+}
